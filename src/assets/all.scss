@@ -1,0 +1,13 @@
+@import "~bootstrap/scss/functions";
+@import "./helpers/_variables";
+@import "~bootstrap/scss/bootstrap";
+
+@import "./dashbd.scss";
+
+//配色
+:root{
+   --powder: #C9DFDC;
+   --peach : #FEDCD2;
+   --warm  : #DF744A;
+   --lemon : #DC8239;
+}
